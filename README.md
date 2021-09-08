@@ -1,7 +1,7 @@
 ### <h1>Hey, I'm Wanessa Lanne!<img align='left' src="https://i.gifer.com/origin/bd/bd38b4c1a1094ef234b3fb695e90af76_w200.gif" width="35"></h1>
 
-
 <p><em>I am a FullStack developer and UX/UI designer with a passion for coding and learning new tech.</p></em>
+<img align='right' src="https://github.com/wanessalanne/wanessalanne/blob/main/computer.gif" width="300">
 
 
  <div>
