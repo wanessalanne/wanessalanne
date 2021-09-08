@@ -1,6 +1,6 @@
 ### <h1>Hey, I'm Wanessa Lanne!<img align='left' src="https://i.gifer.com/origin/bd/bd38b4c1a1094ef234b3fb695e90af76_w200.gif" width="35"></h1>
 
-<p><em>I am a FullStack developer and UX/UI designer with a passion for coding and learning new tech.</p></em>
+<p><em>I am a UX/UI designer and Student Developer Web FullStack at SoulCode Academy, and I'm venturing into the new world of technology, discovering your passion for coding. </p></em>
 <img align='right' src="https://github.com/wanessalanne/wanessalanne/blob/main/welcome.png" width="350">
 
 
